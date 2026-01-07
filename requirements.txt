@@ -1,0 +1,30 @@
+# Requirements untuk Aplikasi Penghitung Usia
+
+# Python Version
+# Python >= 3.6
+
+# Built-in Libraries (Tidak Perlu Instalasi Tambahan)
+# - tkinter (GUI framework)
+# - ttk (Modern Tkinter widgets)
+# - datetime (Date and time operations)
+# - calendar (Calendar utilities)
+# - typing (Type hints)
+
+# CATATAN PENTING:
+# =================
+# Aplikasi ini HANYA menggunakan Python Standard Library.
+# Tidak ada dependencies eksternal yang perlu diinstall via pip.
+#
+# Yang perlu dipastikan:
+# 1. Python 3.6 atau lebih tinggi sudah terinstall
+# 2. Tkinter sudah terinstall (biasanya sudah include di Python)
+#
+# Untuk cek Tkinter:
+# python -c "import tkinter; print('Tkinter OK')"
+#
+# Jika Tkinter belum terinstall:
+# - Ubuntu/Debian: sudo apt-get install python3-tk
+# - Fedora: sudo dnf install python3-tkinter
+# - Arch Linux: sudo pacman -S tk
+# - macOS: Biasanya sudah include
+# - Windows: Biasanya sudah include
