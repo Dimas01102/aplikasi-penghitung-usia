@@ -49,32 +49,6 @@
 
 ---
 
-## 📸 Screenshot
-
-```
-┌──────────────────────────────────────────────┐
-│              🎂                              │
-│     APLIKASI PENGHITUNG USIA                 │
-│   Hitung usia Anda dengan akurat             │
-└──────────────────────────────────────────────┘
-
-┌─ 📅 Masukkan Tanggal Lahir ────────────────┐
-│  Tanggal:  [-- Pilih Tanggal --       ▼]   │
-│  Bulan:    [-- Pilih Bulan --         ▼]   │
-│  Tahun:    [-- Pilih Tahun --         ▼]   │
-└──────────────────────────────────────────────┘
-
-     [🔢 HITUNG USIA]    [🔄 RESET]
-
-┌─ 📊 Hasil Perhitungan ─────────────────────┐
-│  🎂 USIA: 25 Tahun, 4 Bulan, 23 Hari       │
-│  📊 Total Hari: 9,277 hari                 │
-│  ⭐ Zodiak: Leo ♌                          │
-└──────────────────────────────────────────────┘
-```
-
----
-
 ## 🚀 Instalasi
 
 ### Persyaratan Sistem
@@ -173,9 +147,6 @@ Aplikasi_Penghitung_Usia/
 │
 ├── src/
 │   └── main.py                 # File aplikasi utama
-│
-│
-│
 ├── README.md                   # File ini
 ├── requirements.txt            # Dependencies (kosong - semua built-in)
 └── LICENSE                     # Lisensi MIT
@@ -184,13 +155,6 @@ Aplikasi_Penghitung_Usia/
 ---
 
 ## 📚 Dokumentasi
-
-### Dokumentasi Tersedia
-
-1. **[FUNGSI_DAN_MODUL.md](docs/FUNGSI_DAN_MODUL.md)**
-   - Penjelasan detail semua fungsi
-   - Dokumentasi module & package
-   - Algoritma dan complexity analysis
 
 ## 🛠️ Teknologi yang Digunakan
 
